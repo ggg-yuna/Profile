@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;}
+
+
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+    all: unset;
+    display: revert;}
+  
+*:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
+        all: unset;
+        display: revert;}
+      
+
+      

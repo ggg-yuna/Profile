@@ -220,7 +220,7 @@ footer {
 @media screen and (max-width: 780px) {
 
     .header-left img {
-        width: auto;
+        width: 100% auto;
         height: 28px;
         
     }
@@ -235,8 +235,7 @@ footer {
     }
 
     .pf{
-        width: 250px;
-        
+        width: 100% auto;
         font-size: 19px;
         margin-left: 80px;
     }
@@ -245,7 +244,7 @@ footer {
         width: 100% auto;
         height: auto;
         margin-top: 15px;
-        margin-left: 20px;
+        margin-left: 40px;
         
     }
 

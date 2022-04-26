@@ -15,10 +15,7 @@ header {
 
 
 .pf{
-    width: 500px;
     margin-top: 80px;
-    margin-left: 550px;
-    margin-right: 0;
     text-align: start;
     font-size: 33px;
     color: rgb(163, 161, 161);
@@ -242,14 +239,13 @@ footer {
 
     }
     .pf{
-        width: 100% auto;
         font-size: 19px;
         padding:70px;
         margin: 10px;
     }
 
     .pf img{
-        width: 100% auto;
+        width: 100%;
         height: auto;
         padding: 10px;
         margin-left: 30px;
@@ -377,8 +373,6 @@ footer {
         font-weight: bold;
     }
       
-
-    
 
 
 }
